@@ -6,7 +6,8 @@
   "scripts": {
     "start": "bun index.js --bun",
     "dev": "set NODE_ENV=development&& bun index.js --bun",
-    "prod": "set NODE_ENV=production&& bun index.js --bun"
+    "prod": "set NODE_ENV=production&& bun index.js --bun",
+    "test": "node --test --test-force-exit tests/"
   },
   "keywords": ["api", "gateway", "manager"],
   "author": "APIBay Team",
