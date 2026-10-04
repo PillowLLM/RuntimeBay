@@ -1270,3 +1270,15 @@ A: 生产常设 `Elua=False`，726 返回 503，只保留 8081 网关对外；�
 | 最小示例插件 | [ExamplePlugs/](ExamplePlugs/) |
 | HTTP 协议基础 | RFC 7231 |
 | 反向代理原理 | Nginx / Apache 文档 |
+
+---
+
+<div align="center">
+
+<a href="https://github.com/PillowLLM/RuntimeBay">
+  <img width="100%" src="https://alittlecatgirlpanel.yxp.hk/card?repo=PillowLLM/RuntimeBay" alt="gh-card · PillowLLM/RuntimeBay" />
+</a>
+
+<sub>Powered by <a href="https://alittlecatgirlpanel.yxp.hk"><b>gh-card</b></a> · 粉色手写体 README 仓库名片</sub>
+
+</div>
